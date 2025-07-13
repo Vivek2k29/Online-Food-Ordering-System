@@ -66,3 +66,16 @@ A full-stack  food delivery platform that allows users to browse restaurants, ex
 > 🔗 For full schema, refer to the diagram below.
 
 ---
+## Screenshots
+
+### Schema Diagram
+![Online Food Delivery Schema](frontend/images/online_food_delivery_schema.png)
+
+### Home Page
+![Home Page](frontend/images/HomePage.png)
+
+### Registration Page
+![Registration Page](frontend/images/Register.png)
+
+### Dashboard
+![Dashboard](frontend/images/DashBoard.png)
