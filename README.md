@@ -63,10 +63,9 @@ A full-stack  food delivery platform that allows users to browse restaurants, ex
 - Order: customer, restaurant, items, totalPrice, payment
 - Cart: customer, items, total, CartItem (food + quantity + ingredients)
 
-> 🔗 For full schema, refer to the diagram below.
 
----
-## Screenshots
+
+
 
 ### Schema Diagram
 ![Online Food Delivery Schema](frontend/images/online_food_delivery_schema.png)
