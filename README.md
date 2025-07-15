@@ -76,5 +76,3 @@ A full-stack  food delivery platform that allows users to browse restaurants, ex
 ### Registration Page
 ![Registration Page](frontend/images/Register.png)
 
-### Dashboard
-![Dashboard](frontend/images/DashBoard.png)
