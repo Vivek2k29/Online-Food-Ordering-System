@@ -1,0 +1,4 @@
+frontend//*.html linguist-detectable=false
+frontend//*.css linguist-detectable=false
+frontend//*.js linguist-detectable=false
+*.java linguist-language=Java
